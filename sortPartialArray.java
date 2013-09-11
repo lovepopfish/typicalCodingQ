@@ -50,5 +50,6 @@ public class sortPartialArray {
 	public static void main(String[] args){
 		sortPartialArray s = new sortPartialArray();
 		s.sort(new int[]{1,2,4,7,10,11,7,12,6,7,16,18,19});
+		
 	} 
 }
